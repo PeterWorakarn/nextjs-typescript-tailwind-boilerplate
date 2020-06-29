@@ -9,7 +9,7 @@ const HomePage = () => {
       <ul>
         <li>Next.js</li>
         <li>TypeScript</li>
-        <li>Tailwind CSS (with PurgeCSS for production deployment)</li>
+        <li>TailwindCSS (with PurgeCSS for production deployment)</li>
         <li>Airbnb&apos; ESLint rules</li>
       </ul>
       <p>See <Link href="/counter"><a className="text-blue-500">counter page</a></Link></p>
